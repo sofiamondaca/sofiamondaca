@@ -25,4 +25,13 @@
 - .NET
 - Python
 
+| **Hora** | **Lunes**                          | **Martes**                         | **Miercoles**                      | **Jueves**                         | **Viernes**                        |
+|----------|------------------------------------|------------------------------------|------------------------------------|------------------------------------|------------------------------------|
+| 2-3pm    | Sistemas programables              | Sistemas programables              | Sistemas programables              | Sistemas programables              | Sistemas programables              |
+| 3-4pm    | Gestion de proyectos               | Gestion de proyectos               | Gestion de proyectos               | Gestion de proyectos               | Gestion de proyectos               |
+| 4-5pm    | Patrones de diseño                 | Patrones de diseño                 | Patrones de diseño                 | Patrones de diseño                 | Patrones de diseño                 |
+| 5-6pm    | Analisis avanzado de software      | Analisis avanzado de software      | Analisis avanzado de software      | Analisis avanzado de software      | Analisis avanzado de software      |
+| 6-7pm    | Desarrollo de aplicaciones moviles | Desarrollo de aplicaciones moviles | Desarrollo de aplicaciones moviles | Desarrollo de aplicaciones moviles | Desarrollo de aplicaciones moviles |
+| 7-8pm    | Administracion de redes            | Administracion de redes            | Administracion de redes            | Administracion de redes            | Administracion de redes            |
+
 ![main](https://user-images.githubusercontent.com/62130046/186826064-e0982db3-00dd-488a-932f-7d32706611a2.png)
