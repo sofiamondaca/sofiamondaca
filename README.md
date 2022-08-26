@@ -24,3 +24,5 @@
 - MongoDB
 - .NET
 - Python
+
+![main](https://user-images.githubusercontent.com/62130046/186826064-e0982db3-00dd-488a-932f-7d32706611a2.png)
