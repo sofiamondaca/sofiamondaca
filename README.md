@@ -35,3 +35,5 @@
 | 7-8pm    | Administracion de redes            | Administracion de redes            | Administracion de redes            | Administracion de redes            | Administracion de redes            |
 
 ![main](https://user-images.githubusercontent.com/62130046/186826064-e0982db3-00dd-488a-932f-7d32706611a2.png)
+
+![jokebear-농담곰](https://user-images.githubusercontent.com/62130046/186828778-fc7fdbcc-1839-4186-99d2-8cb2d2c746dc.gif)
