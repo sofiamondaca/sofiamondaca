@@ -1,16 +1,26 @@
-### Hi there 👋
-
-<!--
-**sofiamondaca/sofiamondaca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Hi there 👋! I'm Sofia Mondaca
+***
+###  About me
+- 🤠I'm a university student from Mexico 
+- 👩‍💻I'm majoring in Computer Science
+- ✨I would love to work as a Full Stack Web Developer
+- 🗣️I speak both spanish and english!
+- 🌱I just began walking this road but I'm excited to grow
+- 😄I'm always happy to learn something new
+***
+### Technologies and tools I use
+- HTML
+- CSS
+- Javascript
+- React
+- NodeJS
+- SQL
+***
+### Technologies I'm interested in learning
+- PHP
+- Laravel
+- Express
+- NextJS
+- MongoDB
+- .NET
+- Python
